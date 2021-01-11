@@ -4,4 +4,4 @@
 - Dark mode added 
 
 # Github Pages Link
-- 
+- https://canacar9407.github.io/Kodluyoruz--MovieApp/.
